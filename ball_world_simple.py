@@ -2,6 +2,10 @@ import pygame
 from pygame.locals import *
 pygame.init()
 
+'''
+hi
+'''
+
 screen = pygame.display.set_mode((640, 480), 0, 32) # size of app window
 background_color = (255, 255, 255)  # Black background color
 sprite_color = (111, 55, 0)     # Blue sprite color
